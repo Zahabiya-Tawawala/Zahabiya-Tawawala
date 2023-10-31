@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zahabiya-Tawawala
+- 👋 Hi, I’m @Zahabiya-Tawawala currently a student at Chhatrapati Shivaji Maharaj University
 - 👀 I’m interested in fullstack development and data science
 - 🌱 I’m currently learning javascript and data mining & warehousing
 - 💞️ I’m looking to collaborate on some projects 
