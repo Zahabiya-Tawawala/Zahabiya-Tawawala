@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zahabiya-Tawawala currently a MCA student at 
+- 👋 Hi, I’m @Zahabiya-Tawawala currently a MCA student at KJ Somaiya Institute of Management
 - 👀 I’m interested in fullstack development and data science
 - 🌱 I’m currently learning javascript python and BI tools
 - 💞️ I’m looking to collaborate on some projects 
