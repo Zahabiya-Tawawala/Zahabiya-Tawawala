@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zahabiya-Tawawala currently a MCA student at KJ Somaiya Institute of Management
-- 👀 I’m interested in fullstack development and data science
+- 👀 I’m interested in fullstack development data science data engineering and ai
 - 🌱 I’m currently learning javascript python and BI tools
 - 💞️ I’m looking to collaborate on some projects 
 - 📫 How to reach me email me on tawazaha@gmail.com or zahabiya.t@somaiya.edu
