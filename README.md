@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development and data science
 - 🌱 I’m currently learning javascript python and BI tools
 - 💞️ I’m looking to collaborate on some projects 
-- 📫 How to reach me email me on tawazaha@gmail.com
+- 📫 How to reach me email me on tawazaha@gmail.com or zahabiya.t@somaiya.edu
 
 <!---
 Zahabiya-Tawawala/Zahabiya-Tawawala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
